@@ -1,0 +1,28 @@
+/*font-family: 'Handlee', cursive;*/
+
+body{
+    background-color: rgb(185, 169, 193);
+}
+
+#title{
+    text-align: center;
+    font-family: 'Handlee', cursive;
+}
+
+#photographer{
+    float: left;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+#title1{
+    font-family: 'Handlee', cursive;
+}
+
+.container-fluid{
+    background-color: rgb(185, 169, 193);
+}
+
+.photo{
+    padding: 30px;
+}
